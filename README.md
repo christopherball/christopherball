@@ -5,7 +5,7 @@
 - 📫 **Contact**: TBD
 - ⚡ **Fun fact**: I am what you'd refer to as a `philomath`, with a particular interest in `optimized pedagogy`.
 
-![Christopher Ball's GitHub stats](https://github-readme-stats.vercel.app/api?username=christopherball&theme=synthwave)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=christopherball&theme=synthwave)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=christopherball&theme=synthwave&layout=compact)
 
