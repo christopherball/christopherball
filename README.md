@@ -3,7 +3,7 @@
 - 🌱 **Learning**: `Data Science`, `Mathematics`, `Programmatic Animation`, and `GLSL Shader Programming`.
 - 👯 **Collaboration**: If our interests overlap and you want to collaborate, reach out and let's chat!
 - 📫 **Contact**: TBD
-- ⚡ **Fun fact**: I am what you'd refer to as a `philomath`, with a particular interest in `optimized pedagogy`.
+- ⚡ **Fun Fact**: I'm what you'd refer to as a `philomath`, with a particular interest in `optimized pedagogy`.
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=christopherball&theme=synthwave)
 
