@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 **Learning**: `Data Science`, `Mathematics`, `Programmatic Animation`, and `GLSL Shader Programming`.
+- 🌱 **Current Hobbies**: `Data Science`, `Mathematics`, `Cryptography`, `Programmatic Animation`, and `GLSL Shader Programming`.
 - 👯 **Collaboration**: If our interests overlap and you want to collaborate, reach out and let's chat!
 - 📫 **Contact**: [Create a discussion](https://github.com/christopherball/christopherball/discussions)
 - ⚡ **Fun Fact**: I'm what you'd refer to as a `philomath`, with a particular interest in `optimized pedagogy`.
