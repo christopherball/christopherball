@@ -6,7 +6,7 @@
 - ⚡ **Fun Fact**: I'm what you'd call a `philomath` and I enjoy optimizing pedagogy for efficient learning.
 
 <p align="center">
-  <a href="#"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=christopherball&theme=synthwave&rank_icon=github&card_width=350" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="#"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=christopherball&theme=synthwave&rank_icon=github&card_width=350" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="#"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=christopherball&layout=compact&langs_count=8&card_width=350&theme=synthwave" /></a>
 </p>
 
