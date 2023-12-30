@@ -5,13 +5,14 @@
 - 📫 **Contact**: [Create a discussion](https://github.com/christopherball/christopherball/discussions)
 - ⚡ **Fun Fact**: I'm what you'd call a `philomath` and I enjoy optimizing pedagogy for efficient learning.
 
-
+<p align="center">
 <a href="">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=christopherball&theme=synthwave" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=christopherball&theme=synthwave&hide_rank=true" />
 </a>
 <a href="">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=christopherball&layout=compact&langs_count=8&card_width=320&theme=synthwave" />
 </a>
+</p>
 
 
 <!--
