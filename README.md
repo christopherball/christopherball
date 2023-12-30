@@ -7,10 +7,10 @@
 
 <p align="center">
 <a href="">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=christopherball&theme=synthwave&rank_icon=github&card_width=400" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=christopherball&theme=synthwave&rank_icon=github&card_width=350" />
 </a>
 <a href="">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=christopherball&layout=compact&langs_count=8&card_width=400&theme=synthwave" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=christopherball&layout=compact&langs_count=8&card_width=350&theme=synthwave" />
 </a>
 </p>
 
