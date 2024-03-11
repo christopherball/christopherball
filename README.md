@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-- 🌱 **Current Hobbies**: `Data Science`, `Mathematics`, `Cryptography`, `Chess`, `Animation`, and `Japanese Linguistics`.
+- 🌱 **Current Hobbies**: `Data Science`, `Math`, `Cryptography`, `Chess`, `Animation`, and `日本語`.
 - 👯 **Collaboration**: If our interests overlap and you want to collaborate, reach out and let's chat!
 - 📫 **Contact**: [Create a discussion](https://github.com/christopherball/christopherball/discussions)
 - ⚡ **Fun Fact**: I'm considered a `philomath` (a lover of learning and studying).
