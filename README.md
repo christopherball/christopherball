@@ -3,7 +3,7 @@
 - 🌱 **Current Hobbies**: `Data Science`, `Math`, `Cryptography`, `Chess`, `Animation`, and `日本語`.
 - 👯 **Collaboration**: If our interests overlap and you want to collaborate, reach out and let's chat!
 - 📫 **Contact**: [Create a discussion](https://github.com/christopherball/christopherball/discussions)
-- ⚡ **Fun Fact**: I'm considered a `philomath` (a lover of learning and studying).
+- ⚡ **Fun Fact**: `Philomath` (a lover of learning and studying).
 
 <p align="center">
   <a href="#"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=christopherball&theme=synthwave&rank_icon=github&card_width=350" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
