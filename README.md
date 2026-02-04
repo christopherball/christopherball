@@ -6,8 +6,8 @@
 - ⚡ **Fun Fact**: `Philomath` (a lover of learning and studying).
 
 <p align="center">
-  <a href="#"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=christopherball&theme=synthwave&rank_icon=github&card_width=350" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="#"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=christopherball&layout=compact&langs_count=8&card_width=350&theme=synthwave" /></a>
+  <a href="#"><img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api?username=christopherball&theme=synthwave&rank_icon=github&card_width=350" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="#"><img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=christopherball&layout=compact&langs_count=8&card_width=350&theme=synthwave" /></a>
 </p>
 
 <!--
